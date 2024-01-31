@@ -1,5 +1,5 @@
 {
-  "name": "@devteam-itechnolabs/component-library",
+  "name": "@devteam-technolabs/component-library",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.umd.js",
@@ -22,6 +22,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "@devteam-itechnolabs:registry": "https://npm.pkg.github.com"
+    "@devteam-technolabs:registry": "https://npm.pkg.github.com"
   }
 }
