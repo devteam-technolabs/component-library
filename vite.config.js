@@ -6,7 +6,7 @@ export default defineConfig ({
   build: {
     lib: {
       entry: resolve(__dirname, "src/index.jsx"),
-      name: "my-library",
+      name: "component-library",
    		 
       fileName: "index",
     },
